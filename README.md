@@ -12,7 +12,7 @@ Usage
 Compile files
 
     cd src
-    javac *.java
+    javac App.java
 
 App class in AppPackage contains the main method. 
 
